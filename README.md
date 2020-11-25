@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+1. **blogs**:[https://lcl101.cn/](https://lcl101.cn/)
+2. **email**: 554675188@qq.com
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=lcl-101&show_icons=true)](https://github.com/lcl-101)
+
 <!--
 **lcl-101/lcl-101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
